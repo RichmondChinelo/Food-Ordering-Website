@@ -1,4 +1,4 @@
-//----- MENU
+// ----- MENU
 const divtoShow = 'nav .menu';
 const divPopup = document.querySelector(divtoShow);
 const divTrigger = document.querySelector('.m-trigger');
