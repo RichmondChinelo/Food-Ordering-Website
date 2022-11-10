@@ -1,5 +1,4 @@
 @import url('https//fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
-
 :root {
     --primary-color: #fed330;
     --secondary-color: #ff2525;
@@ -50,14 +49,14 @@ h4 {font-size: 1em;}
 /*=================
  * 00. REUSABLE SELECTOR
  *===============*/
- .icons a {
+.icons a {
     position: relative;
     font-size: 1.375em;
     width: 40px;
     height: 40px;
     padding: 0;
     text-align: center;
- }
+}
 
 /*=================
  * 01. HEADER
